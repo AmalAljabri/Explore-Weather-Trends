@@ -4,3 +4,6 @@ In this project, I analyzed local in Riyadh and global temperature data and I co
 
 # Demo Video 🎞
 [![Watch the video](https://github.com/AmalAljabri/Explore-Weather-Trends/blob/main/Images/Img_App_1.png)](https://www.youtube.com/watch?v=i9sVUrlcGkY)
+
+# Review 🎊
+![](https://github.com/AmalAljabri/Explore-Weather-Trends/blob/main/Images/review.png)
